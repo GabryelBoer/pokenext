@@ -7,9 +7,9 @@
   </a>
   <h2 align="center">PokeNext</h2>
 
-  <!-- <img src="./public/project_video.gif" alt="gif" width="800"> -->
+  <img src="./public/images/project_video.gif" alt="gif" width="800">
   <br />
-  <!-- <a href="https://hubusca-mauve.vercel.app/">Deploy do Projeto</a> -->
+  <a href="https://pokenext-one-rouge.vercel.app">Deploy do Projeto</a>
   <br />
   <br />
 </div>
